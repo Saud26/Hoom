@@ -1,0 +1,20 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Hoom' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Hoom
+
+pod 'SwiftyMenu'
+pod 'SideMenu'
+pod 'IQKeyboardManagerSwift'
+pod 'Alamofire', '~> 4.8.0' 
+pod 'SwiftyJSON'
+pod 'FloatRatingView'
+pod 'JTAppleCalendar','7.1.7'
+pod 'BonsaiController'
+pod 'FSCalendar'
+pod "KRProgressHUD"
+end

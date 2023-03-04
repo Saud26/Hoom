@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BonsaiController (6.0.0)
+  - FloatRatingView (4.0)
+  - FSCalendar (2.8.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JTAppleCalendar (7.1.7)
+  - KRActivityIndicatorView (3.0.6)
+  - KRProgressHUD (3.4.6):
+    - KRActivityIndicatorView (= 3.0.6)
+  - SideMenu (6.4.9)
+  - SnapKit (5.0.1)
+  - SwiftyJSON (5.0.0)
+  - SwiftyMenu (0.6.4):
+    - SnapKit (~> 5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.0)
+  - BonsaiController
+  - FloatRatingView
+  - FSCalendar
+  - IQKeyboardManagerSwift
+  - JTAppleCalendar (= 7.1.7)
+  - KRProgressHUD
+  - SideMenu
+  - SwiftyJSON
+  - SwiftyMenu
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BonsaiController
+    - FloatRatingView
+    - FSCalendar
+    - IQKeyboardManagerSwift
+    - JTAppleCalendar
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - SideMenu
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyMenu
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BonsaiController: 63410fc39bc5b3a9df5b329dbc848b6b27edf663
+  FloatRatingView: bb6bdddfbeec51b1d387b4bd50abc27b4dfccd48
+  FSCalendar: 5245140456fcbcac5824c203b98bd8068bdfee1a
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JTAppleCalendar: 96da4d8388fa6dc82d6a60d41ef36a015e167e2f
+  KRActivityIndicatorView: efaa076d1f800c4511b324ae86df8feebcd76323
+  KRProgressHUD: 78d3c810269f8912f9d20c36b5702694ffba1645
+  SideMenu: 8ef57a3cfc024a2d3fc1c036c7fe98537baec9e0
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  SwiftyMenu: 78a70edddb323f6b671ace1bd47853629cf040a9
+
+PODFILE CHECKSUM: 12437d47dd681c3dcb32af5e78903f21b76bbaed
+
+COCOAPODS: 1.9.2
